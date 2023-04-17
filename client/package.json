@@ -1,5 +1,5 @@
 {
-    "name": "PWA-TextEditor",
+    "name": "PWA_TextEditor",
     "scripts": {
       "dev": "webpack-dev-server",
       "build": "webpack --mode production",
@@ -28,3 +28,4 @@
       "idb": "^6.1.2"
     }
   }
+  
